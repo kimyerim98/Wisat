@@ -1,3 +1,4 @@
+#단어 빼기 및 원하는 곳에 붙여 넣기
 sentence='The regret after not doing something is bigger than that of doing something'
 
 list_st=sentence.split(' ')
