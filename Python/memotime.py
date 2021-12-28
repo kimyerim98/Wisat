@@ -1,3 +1,4 @@
+#텍스트에 메모되는 시간 재기
 import time
 
 memo = '''
