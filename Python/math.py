@@ -1,17 +1,17 @@
 
-def add(a, b):
+def add(a, b): #더하기
     return a+b
 
-def sub(a, b):
+def sub(a, b): #빼기
      return a-b
  
-def mul(a, b):
+def mul(a, b): #곱하기
      return a * b
  
-def dev(a, b):
+def dev(a, b):  #나누기
      return a/b
  
-def abs(a):
+def abs(a):  #양수,음수
     if a > 0 :
         return a
     else :
