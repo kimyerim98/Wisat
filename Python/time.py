@@ -1,4 +1,4 @@
-
+#현재시간 출력하기
 import time
 current = time.ctime()
 cur = current.split(' ')
